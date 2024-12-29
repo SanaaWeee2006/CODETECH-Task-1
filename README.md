@@ -50,7 +50,7 @@ The calculator successfully demonstrates:
 ---
 
 #### **Future Improvements**
-**Enhanced Features**: Add scientific calculator functions like square roots, trigonometric calculations, and exponents.
-**Keyboard Input**: Integrate keyboard shortcuts for faster input.
-**Theming**: Provide light and dark mode options for better aesthetics.
-**Platform Compatibility**:  Extend the application to support mobile and web platforms.
+- **Enhanced Features**: Add scientific calculator functions like square roots, trigonometric calculations, and exponents.
+- **Keyboard Input**: Integrate keyboard shortcuts for faster input.
+- **Theming**: Provide light and dark mode options for better aesthetics.
+- **Platform Compatibility**:  Extend the application to support mobile and web platforms.
